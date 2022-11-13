@@ -10,3 +10,4 @@ if(password===validPassword){
 }
 
 console.log("Terimakasih sudah menggunakan aplikasi kami")
+console.log("-----------------------------")

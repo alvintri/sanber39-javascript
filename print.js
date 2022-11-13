@@ -21,5 +21,5 @@ const calculator1 = (a,b) => {
     "merek" : "honda"
   }
   
-module.exports = { calculator1,calculator2,calculator3,calculator4,json }
+module.exports = { calculator1,calculator2,calculator3,calculator4, }
 
